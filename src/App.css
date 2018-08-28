@@ -1,0 +1,64 @@
+body {
+  padding: 10px 30px 10px 30px;
+}
+
+.App {
+  text-align: center;
+}
+
+div.page-header {
+  margin-top: 0px;
+}
+
+#Title h1 {
+  display: inline-block;
+  margin-right: 8px;
+  /* font-family: 'Jua', sans-serif; */
+  /* font-family: 'Gloria Hallelujah', cursive; */
+  font-family: 'Permanent Marker', cursive;
+}
+
+#Title img {
+  display: inline-block;
+  margin-right: 8px;
+  height: 50px;
+  width: 80px;
+}
+
+div.panel {
+  margin-top: 10px;
+}
+
+div.panel-heading {
+  font-size: 1.5em;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+p#vs {
+  margin-top: 3px;
+  font-size: 2em;
+  font-weight: bolder;
+  font-family: 'Metamorphous', cursive;
+}
+
+button[type='submit'] {
+  margin-top: 5px;
+  font-weight: bolder;
+  font-family: 'Gloria Hallelujah', cursive;
+  /* font-family: 'Metamorphous', cursive; */
+}
+
+div#memorama a {
+  border: none;
+}
+
+div#memorama img {
+  border: 1px solid black;
+  box-shadow: 5px 10px #888888;
+  height: 50%;
+  width: 50%;
+}
+
+div#panelScore label, div#panelScore label span {
+  font-size: 1.7em;
+}
