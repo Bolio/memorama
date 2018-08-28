@@ -131,8 +131,6 @@ export class MemoryGame extends Component {
     }
   ];
 
-/*Hasta Aquíiiiiiiiiiiiiiiiiiiiiiisssiiiiiiiiiiiissssssssssss*/
-
 _handleClick = (e) => {
 
     if (this.flip) {
